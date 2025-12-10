@@ -1,3 +1,4 @@
 # pranjal_demo
-just for learning
-author- pranjal
+Just for learning purpose.
+<br>
+Author- Pranjal Pandey
